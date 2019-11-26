@@ -120,3 +120,7 @@ compile_commands.json
 via*.json
 /keyboards/**/keymaps/via/*
 /keyboards/**/keymaps/vial/*
+
+# Verstandinvictus personal
+keyboards/rgbkb/sol/keymaps/verstandinvictus/secret_macros.h
+keyboards/rgbkb/zen/rev2/keymaps/verstandinvictus-rev2/secret_macros.h
