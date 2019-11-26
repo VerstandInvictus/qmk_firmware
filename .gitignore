@@ -73,3 +73,6 @@ id_rsa_*
 
 # python things
 __pycache__
+keyboards/rgbkb/sol/keymaps/verstandinvictus/secret_macros.h
+keyboards/rgbkb/sol/keymaps/verstandinvictus/secret_macros.h
+keyboards/rgbkb/zen/rev2/keymaps/verstandinvictus-rev2/secret_macros.h
